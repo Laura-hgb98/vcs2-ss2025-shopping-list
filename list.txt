@@ -7,4 +7,6 @@ wurst
 kaese
 orangen
 erdbeeren
-
+tomaten
+paprika
+gurkerl
