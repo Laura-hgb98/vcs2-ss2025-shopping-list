@@ -1,4 +1,8 @@
 aepfel
 birnen
+bier
 leberkaese
+chips
+wurst
+kaese
 
