@@ -11,3 +11,5 @@ erdbeeren
 tomaten
 paprika
 gurkerl
+salat
+
